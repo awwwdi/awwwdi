@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working on projects related to integrating AI in ML processes<br>I'm looking to collaborate with people in similar domain/projects<br>I'll definitely appreciate any help I can get from people in these domains to improve my skills or get an upper hand in these areas<br>I'm currently also learning/perfecting my skills in tools such as PowerBI<br>You can ask me any questions related to Web dev<br>Lets grow & contribute together
+ECE grad, building data-driven systems at the intersection of AI, analytics & real-world problem solving<br>
+Focused on ML, data pipelines, and dashboarding (Power BI)<br> 
+Experience with Python, Java & full-stack development<br>
+Always open to collaborating on impactful tech projects  
 
 
 ## 🌐 Socials:
